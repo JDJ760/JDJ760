@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👋
 
-> Cyber Defense student at Saddleback College · transferring to CSU Fullerton · building tools to learn faster
+> Cyber Defense student at Saddleback College · building tools to learn faster
 
 ---
 
